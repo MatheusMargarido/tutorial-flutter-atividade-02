@@ -21,31 +21,6 @@ Para executar o aplicativo, você precisará dos seguintes componentes instalado
 - [Xcode](https://developer.apple.com/xcode/) (necessário para desenvolvimento iOS em sistemas macOS)
 - Um editor de código de sua escolha (recomendado: [Visual Studio Code](https://code.visualstudio.com/) com a extensão Flutter)
 
-## Como Executar
-
-Siga os passos abaixo para configurar e executar o aplicativo em sua máquina local:
-
-1. **Clone este repositório:**
-   ```sh
-   git clone https://github.com/seu-usuario/flutter-tutorial-app.git
-   cd flutter-tutorial-app
-   ```
-
-2. **Instale as dependências:**
-   ```sh
-   flutter pub get
-   ```
-
-3. **Execute o aplicativo:**
-   - Para Android:
-     ```sh
-     flutter run
-     ```
-   - Para iOS:
-     ```sh
-     flutter run
-     ```
-
 ## Funcionalidades
 
 O aplicativo resultante deste codelab inclui:
